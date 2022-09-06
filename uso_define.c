@@ -1,3 +1,11 @@
+/*************************
+Realizo Francisco Romero
+Fecha 06 / 09 / 2022
+UsoDefine
+uso_define-c
+*************************/
+
+
 #include <stdio.h>
 
 #define DOS 1 + 1
