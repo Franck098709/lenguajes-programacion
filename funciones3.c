@@ -1,3 +1,10 @@
+/*************************
+Realizo Francisco Romero
+Fecha 06 / 09 / 2022
+funciones 3
+funciones3.c
+*************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
