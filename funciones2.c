@@ -1,3 +1,10 @@
+/*************************
+Realizo Francisco Romero
+Fecha 06 / 09 / 2022
+funciones 2
+funciones2.c
+*************************/
+
 #include <stdio.h>
 
 float calculo(int x)
